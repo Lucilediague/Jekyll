@@ -1,0 +1,52 @@
+nom: Lucile Diague
+email: Lucile.diague0@orange.fr
+summary:
+  text: Mon parcours de "Globe trotter"
+
+voyages:
+ - nom: Asie
+   pays:
+    - nom: Indonésie
+    - nom: Thaïlande
+    - nom: Philippines
+    - nom: Qatar
+ - nom: Europe
+   pays:
+    - nom: France
+    - nom: Espagne
+    - nom: Îles Canaries
+    - nom: Slovaquie
+    - nom: Grèce
+    - nom: Angleterre
+
+formation:
+ - nom: Section Européenne espagnole
+   lieu: Collège Carnot à Auch
+   voyage: Espagne (Barcelone / Valence)
+   projet: Découverte de la culture
+   apropos: Visite de la ville, logement chez l'habitant
+
+ - nom: Section européenne anglais
+   lieu: Lycée Beaulieu à Auch
+   voyage: Slovaquie, Grèce, France
+   projet: Projet Léonardo
+   apropos: Echange entre France, Pologne, République Tchèque, Slovaquie et Grèce. Découverte des pays, cultures, visites. 
+
+ - nom: Association espagnole "la Peña"
+   lieu: Université Michel de Montaigne à Pessac
+   voyage: Îles Canaries (Lanzarote)
+   projet: Découverte de la culture
+   apropos: Visite de l'île
+
+competences:
+ - nom: Trouver des billets bon marché
+ - nom: Organiser des circuits
+ - nom: Organiser des visites
+ - nom: Maîtrise de l'anglais
+   
+passions:
+ - nom: Découvrir de nouveaux paysages
+ - nom: Découvrir de nouvelles cultures
+ - nom: Découvrir de nouvelles gastronomies
+ - nom: Découvrir
+ - nom: Partager

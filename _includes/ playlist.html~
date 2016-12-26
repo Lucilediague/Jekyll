@@ -1,0 +1,18 @@
+<div id="playlist">
+    <p class="single"><a href="/playlist">Vidéos</a></p>
+
+    {% for vidéos in site.data.vidéos %}
+        <p class="playlist-vidéos">{{ category.category }}</p>
+            <ul class="subcategory">
+
+                {% for vidéos in site.data.playlist %}
+                
+                    {% if playlist.category == category.category and playlist.publish == true %}
+                        <li><a href="{{ site.baseurl.}}/playlist/{{videos.folder}}/">{{vidéos.title}}</a></li>
+                    {% endif %}
+
+                {% endfor %}
+        </ul>
+    {% endfor %}
+
+</div> 

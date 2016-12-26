@@ -1,0 +1,6 @@
+<span>Playlist:</span>
+<ul>
+  {% for playlist in site.data.playlist.playlist %}
+    <li>Title: {{ vidéos.title }}</li>
+  {% endfor %}    
+</ul>

@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl }}">
+
+
+<ul>
+  
+  {% for org in site.data.cv %}
+  {% assign x = org[1] %}
+  
+      </br>
+      <strong>Name:</strong>
+      {{ x.name }}<br/>
+      <strong>Home:</strong>
+      {{ x.home }}<br/>
+      <strong>Email:</strong>
+      {{ x.email }}<br/>
+      </br>
+      <strong>Summary :</strong>
+      {{ x.summary.text }}
+      </br>
+      <br>
+
+
+      <h1><strong>Skills:</strong></h1>
+      {% for skills in x.skills %}
+          <h3><em><li><strong>Name:</strong>{{ skills.name }}</li></em></h3>
+	  <strong>Items:</strong></br>
+          {% for items in skills.items %}
+            <strong>Name:</Strong>{{ items.name }}
+            </br>
+          {% endfor %}
+        </br>
+      {% endfor %}
+      
+       <h1><strong>Professional:</strong></h1>
+       {% for y in x.professional %}
+          
+          <strong>Name:</strong>
+          {{y.name}}</br>
+          <strong>Link:</strong>
+          {{y.link}}</br>
+          <strong>Location:</strong>
+          {{y.location}}</br>
+          <strong>Start:</strong>
+          {{y.start}}</br>
+          <strong>End:</strong>
+          {{y.end}}</br>
+          <strong>Title:</strong>
+          {{y.title}}</br>
+          <strong>Summary:</strong>
+          {{y.summary}}</br>
+          <strong>Projects:</strong>
+          {% for z in y.projects %}
+            <li><strong>Name:</strong>
+            {{ z.name }}</br>
+            <strong>Link:</strong>
+            {{ z.link }}</br>
+            <strong>Description:</strong>
+            {{ z.description }}</br>
+            <strong>Skills:</strong>
+            {{ z.skills }}</li></br>
+          {% endfor %}  
+        </br>
+      {% endfor %}
+      
+      <h1><strong>Education:</strong></h1>
+      {% for y in x.education %}
+      <strong>{{y[0]}} :</strong></br>
+        {% for z in y[1] %}
+         <strong>Name: </strong>
+         {{ z.name }}</br>
+         <strong> Link: </strong>
+         {{ z.link }}</br>
+         <strong>Year: </strong>
+         {{ z.year }}</br>
+         <strong>Degree: </strong>
+         {{ z.degree }}</br>
+         </br>
+         {% endfor %}
+      {% endfor %}
+</br>
+      
+       
+     
+      <h1><strong>CertsAndAwards:</strong></h1>
+      {% for y in x.certsAndAwards %}
+         <strong>Name: </strong>
+         {{ y.name }}</br>
+         <strong>Year: </strong>
+         {{ y.year }}</br>
+         </br>
+      {% endfor %}
+      
+      
+       <h1><strong>Clearance:</strong></h1>
+       Name:
+       {{ x.clearance.name }}
+      
+	
+  </br>
+  {% endfor %}
+</ul>
+
+

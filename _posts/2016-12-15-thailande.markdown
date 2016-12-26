@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Thaïlande"
+date:   2016-12-15 15:39:40
+preview: http://imageshack.com/a/img922/121/lf23S0.jpg
+---
+
+![Picture 1](http://imageshack.com/a/img924/2904/w2lZAu.gif)
+
+# La Thaïlande du sud et ses îles
+
+Quand on vous dit Thaïlande, vous pensez immédiatement à Bangkok et à ses éléphants… Mais la Thaïlande c’est aussi et surtout de superbes archipels d’îles paradisiaques aux lagons bleu azur ! Je vous y emmène…
+
+## 5 choses à voir et à faire:
+
+### 1/ Visiter les îles Phi Phi
+
+L’île de Ko Phi Phi, proche de Phuket, fut ravagée par le tsunami en décembre 2004. Mais tout a été reconstruit et on peut à nouveau profiter aussi bien des complexes hôteliers que des coins sauvages de l’île. Ko Phi Phi est le nom générique donné à deux îles : Phi Phi Don et Phi Phi Lee. Cet endroit est mondialement réputé pour ses plages de sable blanc, ses falaises plongeant dans la mer, le magnifique bleu turquoise des eaux et la beauté des fonds marins. C'est à Ko Phi Phi (Maya Bay plus exactement) que fut tourné le film La Plage avec Leonardo di Caprio. 
+
+![vue](http://imageshack.com/a/img924/7825/pH0NND.jpg)
+
+### 2/ Admirer les charmeurs de crocodiles et serpents
+
+Les  « dresseurs » n’hésitent pas à mettre un bras, et même la tête, dans la puissante gueule de ce redoutable reptile.
+On vient par goût du frisson, ce plaisir coupable qu’on éprouve à se faire peur, à se projeter dans la situation de celui qui prend un risque, voire à se mettre en danger. Il y a toujours cette possibilité d’assister à quelque chose de terrible, comme au temps des gladiateurs.
+
+Les charmeurs de serpents n'hésitent pas à manipuler à mains nues les spécimens les plus dangereux qu'ils présentent à l'assistance, dont le Cobra royal cracheur (naja)! Vous rencontrerez également un résident de la jungle de Koh samui, le python géant ! Mais aussi scorpions et mille-pattes.
+
+![crocodile](http://imageshack.com/a/img923/3442/DioJgC.jpg)
+
+### 3/ Assiter à des combats de boxe thaï
+
+Qu’on se le dise, assister à un match de boxe Thai (appelé Muay Thai localement) est un must lorsque vous visitez la Thaïlande. Certains pourraient penser à juste titre « oh non moi ça m’intéresse pas, c’est violent, j’aime pas les sports de combats ». Si je ne peux pas nier le caractère violent, il ne faut pas oublier que la boxe Thai est aussi un pan de la culture Thaïlandaise qui a donc toute sa place pour une « visite », au même titre qu’on irait voir un musée.
+
+La boxe Thaïlandaise répond à toute une série de processus et cérémonial qui rendent le sport assez proche d’un événement culturel plus qu’à une simple démonstration de force.
+
+![boxe](http://imageshack.com/a/img924/4632/kFobD3.jpg)
+
+### 4/ Visiter le Big Buddha et le temple Wat Plai Laem à Koh Samui
+
+Le Big Buddha est situé sur Big Buddha Beach, le monument est impressionant. Attraction oblige, de nombreux commerces sont disposés autour du temple. Magasins de souvenirs, vêtements,.. Vous pourrez acheter une tuile du temple, pas pour l'emporter avec vous, mais pour écrire un message dessus. La tuile sera conservée au temple!
+
+Mais ne vous arrêtez pas là! Car à quelques pas se trouve un autre temple tout aussi magnifique, le temple Wat Plai Laem. Vous pourrez trouver des magnifiques statuts représentant Bouddha. Ce temple est entouré d'eau (vous pouvez acheter de la nourriture pour les poissons, jetez une poignée, vous allez être surpris! Des centaines d'énormes poissons sacrés se battent la nourriture!).
+
+![Buddha](http://imageshack.com/a/img923/9397/PhH8Gd.jpg)
+
+### 5/ La baie de Phang Nga et James Bond Island
+
+Son nom original est Khao Ping Kan mais nous préférons James Bond Island, c’est vachement plus simple. Le panorama lorsque nous nous approchons du site est vraiment splendide et on comprend tout de suite pourquoi ce lieu est devenu emblématique. Les fans de James Bond reconnaitront le décor de « L’homme au pistoler d’or » sorti en 1974. On peut observer Ko Tapu, ce rocher incroyable de 20 mètres de haut qui semble avoir été posé là et tenir comme par magie. Le paysage est unique, comme irréel.
+
+![rocher](http://imageshack.com/a/img922/5538/tgBfPU.jpg)
+

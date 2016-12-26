@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+
+<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl }}">
+
+<ul>
+  
+  {% for org in site.data.cvvoyage %}
+  {% assign x = org[1] %}
+  
+      </br>
+      <strong>Nom:</strong>
+      {{ x.nom }}<br/>
+      <strong>Email:</strong>
+      {{ x.email }}<br/>
+      </br>
+      {{ x.summary.text }}
+      </br>
+      </br>
+
+      <h1><strong>Voyages:</strong></h1>
+      {% for voyages in x.voyages %}
+          <h3><em><li>{{ voyages.nom }}</li></em></h3>
+	  <strong>pays:</strong></br>
+          {% for pays in voyages.pays %}
+          {{ pays.nom }}
+            </br>
+          {% endfor %}
+        </br>
+      {% endfor %}
+
+      
+       <h1><strong>Formation:</strong></h1>
+       {% for y in x.formation %}</li>
+          </br>
+	  </br>
+          <li><strong>Nom:</strong>
+          {{y.nom}}</br>
+          <strong>Lieu:</strong>
+          {{y.lieu}}</br>
+          <strong>Voyage:</strong>
+          {{y.voyage}}</br>
+          <strong>Projet:</strong>
+          {{y.projet}}</br>
+          <strong>A propos:</strong>
+          {{y.apropos}}</li>
+          {% endfor %}  
+        </br>
+      {% endfor %}
+	</br>
+     
+
+      <h1><strong>Compétences:</strong></h1>
+      {% for y in x.competences %}
+         <li>{{ y.nom }}</li>
+       </br>
+      {% endfor %}
+      
+      
+       <h1><strong>Passions:</strong></h1>
+       {% for y in x.passions %}
+       <li>{{ y.nom }}</li>
+  </br>
+  {% endfor %}
+
+</ul>
+
+

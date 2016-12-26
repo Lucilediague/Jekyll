@@ -1,0 +1,14 @@
+# Site settings
+title: Le Blog de Lucile
+email: lucile.diague0@orange.fr
+description: Bienvenue sur mon blog dédié à mes voyages en Asie, vous pourrez trouver trois articles, Thailande, Indonésie et Philippines. Dans chacun, cinq choses à voir et à faire. Toutes les photos sont les miennes! Bonne visite!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+instagram_username: luucile32
+github_username:  Lucilediague
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+
+excerpt_separator: ""

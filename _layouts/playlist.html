@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl }}">
+
+<ul>
+  
+  
+  {% for playlist in site.data.playlist %}
+       <br/>
+       <h1> {{playlist.title}} :
+       </h1>
+       <h2>{{playlist.content}}
+       </h2>
+       </br>
+       <iframe width="425" height="349" src= {{playlist.source}} frameborder="0" allowfullscreen></iframe>
+       </br>
+
+  {% endfor %}
+</ul>
+
+
